@@ -1,3 +1,5 @@
+package com.vn.smartclipboard;
+
 import com.intellij.ide.util.PropertiesComponent;
 import org.apache.commons.lang.ArrayUtils;
 

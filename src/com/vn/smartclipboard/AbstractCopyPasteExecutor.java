@@ -1,10 +1,10 @@
+package com.vn.smartclipboard;
+
 import com.intellij.openapi.actionSystem.AnAction;
 import com.intellij.openapi.actionSystem.AnActionEvent;
 import com.intellij.openapi.actionSystem.CommonDataKeys;
-import com.intellij.openapi.editor.Document;
 import com.intellij.openapi.editor.Editor;
 import com.intellij.openapi.editor.SelectionModel;
-import com.intellij.openapi.project.Project;
 import com.intellij.util.indexing.StorageException;
 import org.apache.commons.lang.StringUtils;
 import org.jetbrains.annotations.NotNull;

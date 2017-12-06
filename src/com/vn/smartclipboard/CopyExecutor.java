@@ -1,3 +1,5 @@
+package com.vn.smartclipboard;
+
 import com.intellij.openapi.actionSystem.AnActionEvent;
 import com.intellij.openapi.editor.SelectionModel;
 import com.intellij.util.indexing.StorageException;
