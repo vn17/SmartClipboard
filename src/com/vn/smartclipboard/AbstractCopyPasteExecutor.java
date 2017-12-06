@@ -14,10 +14,11 @@ public abstract class AbstractCopyPasteExecutor extends AnAction {
 
     private AnActionEvent actionEvent;
 
-    //Is this method never called?
+
     @Override
     public void actionPerformed(AnActionEvent anActionEvent) {
-    }
+        //Is this method never called?
+         }
 
     @Override
     public void update(AnActionEvent anActionEvent) {
